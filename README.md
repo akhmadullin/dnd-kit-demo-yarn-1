@@ -2,6 +2,10 @@
 
 This project was created for demonstartion of correct work of dnd-kit with yarn 1.
 
+### Live demo
+
+https://akhmadullin.github.io/dnd-kit-demo-yarn-1/
+
 ## Available Scripts
 
 In the project directory, you can run:
